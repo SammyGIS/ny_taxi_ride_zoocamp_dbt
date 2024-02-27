@@ -1,6 +1,6 @@
 {{
     config(
-        materialize  d='view'
+        materialized='view'
     )
 }}
 
